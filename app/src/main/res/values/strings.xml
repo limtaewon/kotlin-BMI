@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first_project</string>
+    <string name="height">신장</string>
+    <string name="weight">체중</string>
+    <string name="resultBt">확인하기</string>
+    <string name="Bmi">BMI : </string>
+    <string name="result">결과 : </string>
+</resources>
